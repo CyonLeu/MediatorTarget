@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/CyonLeu/MediatorTarget'
+  s.homepage         = 'http://git.qupeiyin.net/FeiZhu_IOS_Pub_Repo/MediatorTarget.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'CyonLeu' => 'CyonLeu@163.com' }
-  s.source           = { :git => 'https://github.com/CyonLeu/MediatorTarget.git', :tag => s.version.to_s }
+  s.source           = { :git => 'gogs@git.qupeiyin.net:FeiZhu_IOS_Pub_Repo/MediatorTarget.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
