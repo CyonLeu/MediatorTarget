@@ -1,0 +1,6 @@
+framework module Pods_MediatorTarget_Example {
+  umbrella header "Pods-MediatorTarget_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

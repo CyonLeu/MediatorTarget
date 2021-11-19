@@ -1,0 +1,6 @@
+framework module MediatorTarget {
+  umbrella header "MediatorTarget-umbrella.h"
+
+  export *
+  module * { export * }
+}
