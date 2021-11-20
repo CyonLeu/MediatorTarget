@@ -1,4 +1,5 @@
 # MediatorTarget
+MediatorTarget 主要包含CTMediator的分类，与业务调用相关接口，作为中转
 
 [![CI Status](https://img.shields.io/travis/CyonLeu/MediatorTarget.svg?style=flat)](https://travis-ci.org/CyonLeu/MediatorTarget)
 [![Version](https://img.shields.io/cocoapods/v/MediatorTarget.svg?style=flat)](https://cocoapods.org/pods/MediatorTarget)
